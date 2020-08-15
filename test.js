@@ -1,3 +1,3 @@
 const dotenv = require("dotenv").config();
 
-console.log(process.env.POOYA_KH = 60);
+console.log(process.env.DB_USER);
